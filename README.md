@@ -6,6 +6,7 @@ In this project I have analyzed the music playlist database. The dataset is acce
 # Database and Tools:
 
 Postgre SQL
+
 PgAdmin4
 
 Schema:
