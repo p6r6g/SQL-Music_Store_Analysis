@@ -13,4 +13,5 @@ Schema:
 
 <img width="594" alt="schema_diagram" src="https://github.com/user-attachments/assets/be39739a-dbcd-49de-bf80-88f105fa5662" />
 
+
 The detailed Analysis can be found in the "music_store_query.sql" file. 
